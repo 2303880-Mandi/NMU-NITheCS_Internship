@@ -4,3 +4,4 @@
 - Setup Python env
 - Setup Qiskit
 - Went through the study guide
+- Setup Git repo
